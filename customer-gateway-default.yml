@@ -1,0 +1,5 @@
+zuul: 
+  routes:     
+     service-d:         
+          path: /service-d/**
+          serviceId : service-version
