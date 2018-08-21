@@ -1,3 +1,4 @@
+mark: abc
 profile: default
 server:
    port: 6666
